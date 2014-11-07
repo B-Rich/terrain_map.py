@@ -17,13 +17,13 @@
 '''
 
 # Import libraries
-from PIL import Image								              # For image processing
-import time											                  # For keeping time
-import numpy as np									              # For calculations
-import matplotlib.pyplot as plt						        # For plot
-from mpl_toolkits.mplot3d import Axes3D				    # For plot
+from PIL import Image					# For image processing
+import time						# For keeping time
+import numpy as np					# For calculations
+import matplotlib.pyplot as plt				# For plot
+from mpl_toolkits.mplot3d import Axes3D			# For plot
 from matplotlib.collections import PolyCollection	# For plot
-from matplotlib.colors import colorConverter		  # For plot
+from matplotlib.colors import colorConverter		# For plot
 
 ''' Record starting time (for testing purposes) '''
 start_time = time.time()
