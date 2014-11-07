@@ -1,7 +1,7 @@
 # Import libraries
-from PIL import Image								# For image processing
-import time											# For keeping time
-import numpy as np									# For calculations
+from PIL import Image		# For image processing
+import time			# For keeping time
+import numpy as np		# For calculations
 
 ''' Record starting time (for testing purposes) '''
 start_time = time.time()
