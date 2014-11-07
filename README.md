@@ -19,3 +19,6 @@ Feel free to do whatever you want with this script.
 Also, very important:  Make sure the images are labeled "image1.jpg", "image2.jpg", ... , "image16.jpg".
 
 Test images can be found here: http://imgur.com/a/1Mk4v
+
+
+UPDATE:  I've added new_script.py.  This is the same as the other, but it removes all of the unnecessary plots and variables (as well as the plotting libraries)
