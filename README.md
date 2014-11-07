@@ -12,3 +12,8 @@ It's also pretty slow...
 
 
 Feel free to do whatever you want with this script.
+
+
+
+
+Also, very important:  Make sure the images are labeled "image1.jpg", "image2.jpg", ... , "image16.jpg".
