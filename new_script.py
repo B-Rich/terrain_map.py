@@ -9,7 +9,7 @@ start_time = time.time()
 # Declare constants
 number_of_images = 16
 ground_level = 30	# Pixels from bottom of image
-width = 200			# Pixels
+width = 200		# Pixels
 height = 200		# Pixels
 all_heights = []	# Matrix that will hold all heights (for calculations)
 
